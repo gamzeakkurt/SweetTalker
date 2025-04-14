@@ -1,0 +1,17 @@
+# Gemini and Google Generative AI
+google-generativeai>=0.3.2
+
+# Environment variable loading
+python-dotenv>=1.0.1
+
+# Image handling and processing
+Pillow>=10.0.0
+
+# For API routes or dashboard (if used)
+streamlit>=1.31.1  # Uncomment if using Streamlit instead of Flask
+
+# Optional: for data handling and display
+pandas>=2.2.1
+
+# Optional: for handling JSON/regex parsing from Gemini responses
+requests>=2.31.0
