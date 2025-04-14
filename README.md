@@ -11,12 +11,6 @@
 
 
 
-## 🎥 Application Demo
-
-[![Watch the video](https://img.youtube.com/vi/emEDaQ9tKfk/0.jpg)](https://youtu.be/emEDaQ9tKfk)
-
-
-
 ## Features
 
 - **Personalized Recipe Generation**: Generate unique dessert recipes based on specific preferences (e.g., low-sugar, vegan).
@@ -62,6 +56,20 @@ To get started with **Sweet Talker**, follow these steps:
 ### Example:
 
 To test out **Sweet Talker**, run the app and interact with it through Streamlit. You can see AI-generated recipes, provide feedback, and track sentiment analysis and feedback over time.
+
+
+
+
+## 🎥 Application Demo
+
+[![Watch the video](https://img.youtube.com/vi/emEDaQ9tKfk/0.jpg)](https://youtu.be/emEDaQ9tKfk)
+
+## 🔗 Explore More
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Visit-blue?logo=kaggle)](https://www.kaggle.com/code/gamzeakkurt/pastry-recipe-creator-sweet-talker-gemini)
+[![Medium](https://img.shields.io/badge/Medium-Article-black?logo=medium)](https://medium.com/@yourusername/your-article-title)
+
+
 
 ## Contributing
 
