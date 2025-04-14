@@ -1,11 +1,21 @@
 
+
+![SweetTalker_logo](https://github.com/gamzeakkurt/SweetTalker/blob/main/SweetTalker_logo.png)
+
 ---
 
 # 🍰 Sweet Talker: Your Assistant for Professional-Style Baking at Home
 
+
 **Sweet Talker** is an AI-powered recipe generation system that uses a conversational agent to create personalized dessert recipes based on user preferences. This project leverages the power of advanced AI models like Gemini to craft delightful and context-aware dessert recipes, focusing on making the user experience more interactive and customized.
 
-Application video : https://youtu.be/emEDaQ9tKfk
+
+
+## 🎥 Application Demo
+
+[![Watch the video](https://img.youtube.com/vi/emEDaQ9tKfk/0.jpg)](https://youtu.be/emEDaQ9tKfk)
+
+
 
 ## Features
 
