@@ -23,10 +23,6 @@
 
 To get started with **Sweet Talker**, follow these steps:
 
-### Prerequisites
-
-- Python 3.x
-- Required libraries (listed below)
 
 ### Installation
 
