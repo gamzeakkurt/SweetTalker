@@ -62,7 +62,7 @@ To test out **Sweet Talker**, run the app and interact with it through Streamlit
 
 ## 🔗 Explore More
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Visit-blue?logo=kaggle)](https://www.kaggle.com/code/gamzeakkurt/pastry-recipe-creator-sweet-talker-gemini)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Visit-blue?logo=kaggle)](https://www.kaggle.com/code/gamzeakkurt/patisserie-recipe-creator-sweet-talker-gemini)
 [![Medium](https://img.shields.io/badge/Medium-Article-black?logo=medium)](https://medium.com/@yourusername/your-article-title)
 
 
