@@ -5,6 +5,8 @@
 
 **Sweet Talker** is an AI-powered recipe generation system that uses a conversational agent to create personalized dessert recipes based on user preferences. This project leverages the power of advanced AI models like Gemini to craft delightful and context-aware dessert recipes, focusing on making the user experience more interactive and customized.
 
+Application video : https://youtu.be/emEDaQ9tKfk
+
 ## Features
 
 - **Personalized Recipe Generation**: Generate unique dessert recipes based on specific preferences (e.g., low-sugar, vegan).
