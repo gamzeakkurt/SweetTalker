@@ -41,7 +41,7 @@ To get started with **Sweet Talker**, follow these steps:
 3. Run the app in **Streamlit**:
 
    ```bash
-   streamlit run app.py
+   streamlit run user_interface.py
    ```
 
 ### Usage
